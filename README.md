@@ -1,7 +1,7 @@
 # Investigating a soccer dataset
 ## Data
 The data was sourced from the kaggle website, with the link provided below <br>
-URL : https://www.kaggle.com/hugomathien/soccer
+URL : https://www.kaggle.com/hugomathien/soccer <br>
 The european soccer dataset contains:
 <li>+25,000 matches</li>
 <li>+10,000 players</li>
