@@ -21,5 +21,5 @@ The aim of this project was to answer the following questions:
 <li>Team attribute leading to victory</li>
 
 ## Method
-Python was used for the data analysis with the help of jupyter notebook 
+Python was used for the data analysis with the help of jupyter notebook <br>
 SQL was also used for data assessment
